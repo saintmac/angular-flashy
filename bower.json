@@ -1,0 +1,24 @@
+{
+  "name": "angular-flashy",
+  "version": "0.1.0",
+  "homepage": "https://github.com/saintmac/angular-flashy",
+  "authors": [
+    "saintmac <martin.saintmac@gmail.com>"
+  ],
+  "description": "simple flash notifications module for AngularJS",
+  "main": "angular-flashy.js",
+  "keywords": [
+    "angular",
+    "angularJS",
+    "flash",
+    "notification"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
